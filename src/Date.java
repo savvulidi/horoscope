@@ -43,6 +43,6 @@ class Date {
             sign = "Козерог";
         }
 
-        return sign + ": Всё будет хорошо.";
+        return sign + ": Всё будет хорошо!";
     }
 }
